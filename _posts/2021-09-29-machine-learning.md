@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Advanced Machine Learning"
-subtitle: "Everything you need to know about machine learning technology"
+title: "Everything you need to know about machine learning technology"
 background: '/img/posts/02.jpg'
 ---
 
