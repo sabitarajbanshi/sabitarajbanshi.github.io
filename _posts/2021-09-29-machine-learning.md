@@ -4,9 +4,9 @@ title: "Everything you need to know about machine learning technology"
 background: '/img/posts/02.jpg'
 ---
 
- 
 
-![machine](/img/posts/machine learning/machine_study.png)
+
+![machine](\img\posts\machine learning\mlstudy.png)
 
 ## Introductory
 
