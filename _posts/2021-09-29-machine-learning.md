@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Everything you need to know about machine learning technology"
-background: '/img/posts/02.jpg'
+
+
 ---
 
 

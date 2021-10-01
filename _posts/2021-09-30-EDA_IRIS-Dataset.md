@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Exploratory Data Analysis of IRIS Dataset"
-#background: '/img/posts/02.jpg'
 ---
 
 
