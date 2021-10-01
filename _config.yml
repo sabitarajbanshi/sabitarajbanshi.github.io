@@ -9,8 +9,9 @@ url:                "https://sabitarajbanshi.com"
 twitter_username:   __sabita
 linkedin_username:  sabitarajbanshi
 github_username:    sabitarajbanshi
-medium_username:    sabitarajbanshi    
-
+medium:
+  url: https://sabitarajbanshi.medium.com/ 
+  
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
